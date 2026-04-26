@@ -263,3 +263,13 @@ It showcases strong skills in **Data Analytics, Business Intelligence, and Visua
 
 - LinkedIn: https://www.linkedin.com/in/yogesh-gadekar-a1231b189  
 - Email: yogeshgadekar141@gmail.com
+
+---
+
+## 📊 Interactive Dashboard Preview
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/yogesh-gadekar-a1231b189_skillcourse-powerbi-dataanalytics-activity-7448967540392951808-J7Ei">
+    <img src="https://raw.githubusercontent.com/GADEKAR328/Project-2-Grocery-Store-Data-End-to-End-Project-POWER-BI/e9c3e37ae4aaceb786aff2398d6ab7f7b57122d9/Swiggy%20Instamart%20Retail%20Analytics%20Dashboard%20%20Project%202.jpg" width="900"/>
+  </a>
+</p>
