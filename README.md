@@ -1,4 +1,4 @@
-# 📊 Project-2: Swiggy Instamart Retail Analytics Dashboard (Power BI)
+# 📊 Swiggy Instamart Retail Analytics Dashboard (Power BI)
 
 This project showcases a comprehensive retail analytics dashboard developed using Power BI to analyze the performance of a grocery delivery platform similar to Swiggy Instamart.
 
